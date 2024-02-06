@@ -34,4 +34,4 @@ void loop() {
   delay(1000);
 }
 
-//calibration factor will be the (reading)/(known weight)-33.406(-6581/197)
+//calibration factor will be the (reading)/(known weight)
