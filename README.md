@@ -1,6 +1,6 @@
 **README.md**
 
-##Coal Weight Measurement in coal wagon
+## Coal Weight Measurement in coal wagon
 
 This repository contains two Arduino sketches:
 
@@ -12,7 +12,7 @@ This repository contains two Arduino sketches:
 
 The load cell calibration process involves determining the relationship between the force applied to the load cell and the corresponding electrical output. This is achieved by applying known loads to the load cell and recording the corresponding readings. The calibration sketch provides a user-friendly interface to streamline this process, allowing users to input known loads and record the corresponding readings for calibration purposes.
 
-### Coal Wagon Weight Measurement
+### Coal Weight Measurement in coal wagon
 
 The coal wagon weight measurement system combines various components to facilitate accurate and efficient weight measurement of coal wagons. The load cell serves as the primary sensor for weight detection, while the LCD provides a clear display of the measured weight. Additionally, LEDs are employed to indicate different conditions, such as weight thresholds or system status, while a buzzer offers audible alerts when necessary.
 
