@@ -1,4 +1,4 @@
-/
+// measuring weight
 #include <Arduino.h>
 #include "HX711.h"
 #include <Wire.h>
