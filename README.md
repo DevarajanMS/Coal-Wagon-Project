@@ -1,6 +1,6 @@
 **README.md**
 
-## Load Cell Calibration and Coal Wagon Weight Measurement
+Coal Weight Measurement in coal wagon
 
 This repository contains two Arduino sketches:
 
