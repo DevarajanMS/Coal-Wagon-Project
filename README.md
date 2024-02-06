@@ -1,6 +1,6 @@
 **README.md**
 
-Coal Weight Measurement in coal wagon
+##Coal Weight Measurement in coal wagon
 
 This repository contains two Arduino sketches:
 
